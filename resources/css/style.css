@@ -1,0 +1,17 @@
+.paragraph-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; /* jarak antara paragraf */
+}
+
+.row-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px; /* padding kiri dan kanan */
+    width: 100%; /* lebar 100% */
+}
+
+.paragraph {
+    width: calc(50% - 20px); /* atur lebar paragraf dengan mempertimbangkan padding */
+}
