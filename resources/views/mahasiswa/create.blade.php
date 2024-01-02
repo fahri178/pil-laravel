@@ -55,6 +55,7 @@
     </div>
     </nav>
     <div class="container">
+      <h1>Ini hal tambah data</h1>
         <div class="row">
             <div class="col-sm-12">
                 <h4>Form Mahasiswa</h4>
